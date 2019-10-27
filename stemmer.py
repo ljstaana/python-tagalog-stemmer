@@ -58,7 +58,7 @@ class Stemmer:
         # suffixes
         self.suffixes = [
             "uhan", "han", "hin", "ing", 
-            "ng", "an", "in", "n",
+            "ng", "an", "in", "n", "ang"
         ] 
 
         # infixes 

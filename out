@@ -1,4 +1,5 @@
-['grabe', 'naman', 'to', 'pad', 'wala', 'aral']
+36109
+['saya', 'kuha', 'ang', 'barkada']
 1 Word: aaga | Expected: aga
 
 2 Word: maaga | Expected: aga
@@ -31,3 +32,43 @@
 
 16 Word: aanihin | Expected: ani
 
+17 Word: kabuhayan | Expected: buhay
+
+18 Word: pinamimili | Expected: bili
+
+['aga', 'aaga']
+['aga', 'maaga', 'aga']
+['aga', 'gang', 'maaga', 'maagang', 'pinakamaagang', 'maag', 'agang', 'pinakamaag', 'kamaaga', 'nakamaagang', 'pakamaagang', 'kamaad', 'baagang', 'baaga', 'maad', 'nakamaad', 'pakamaag', 'baag', 'kamaagang', 'pinakamaad', 'nakamaaga', 'pakamaaga', 'pinakamaaga', 'kamaag', 'nakamaag', 'baad', 'pakamaad', 'aga', 'agang', 'nakamaagang', 'nakamaag', 'nakamaag', 'maaga', 'kamaagang', 'kamaagang', 'kamaagang', 'kamaagang', 'maad', 'agang', 'aga', 'kamaad', 'kamaag', 'maagang', 'nakamaad', 'nakamaad', 'kamaaga', 'kamaaga', 'kamaaga', 'kamaaga', 'nakamaaga', 'maag', 'kamaag', 'kamaad', 'kamaagang', 'kamaagang', 'kamaag', 'kamaag', 'aga', 'maagang', 'maagang', 'maagang', 'maagang', 'maad', 'maag', 'agang', 'kamaad', 'kamaad', 'maaga', 'maaga', 'maaga', 'maaga', 'kamaaga', 'kamaaga', 'maag', 'maad', 'maagang', 'maagang', 'maag', 'maag', 'agang', 'agang', 'agang', 'agang', 'maad', 'maad', 'aga', 'aga', 'aga', 'aga', 'maaga', 'maaga', 'agang', 'agang', 'aga', 'aga']
+['aga', 'maga', 'baga', 'paga', 'umaga']
+['alam', 'alamin', 'alad', 'lami', 'lamin', 'lad', 'alami', 'lam']
+['alam', 'lam']
+['alam', 'laman', 'kaalam', 'kaalaman', 'alama', 'alaman', 'kaalama', 'lama', 'lam', 'alam', 'alaman', 'alama']
+['alam', 'kaalam', 'kaalamang', 'alad', 'alama', 'kaalad', 'kaalama', 'lad', 'lama', 'lamang', 'lam', 'alamang', 'alam', 'alamang', 'alad', 'alama']
+['laman', 'naglalaman', 'naglalama', 'lalama', 'lam', 'lama', 'lalaman', 'naglalam', 'lalam', 'glalaman', 'glalama', 'lama', 'laman', 'glalam']
+['laman', 'nilalaman', 'nilalam', 'nilalama', 'lalama', 'lam', 'lama', 'lalaman', 'lalam', 'lalaman', 'lalam', 'lalama', 'lama', 'laman', 'laman', 'lama']
+['mahal', 'mamahal', 'pagmamahal', 'bamahal', 'hal', 'bahal', 'mahal', 'gmamahal', 'mahal']
+['paglaban', 'ipapaglaban', 'pinapaglaban', 'apaglaba', 'dapaglab', 'tapaglab', 'inapaglab', 'ipapaglaba', 'apaglab', 'ipinapaglaban', 'papaglaban', 'sapaglab', 'lapaglab', 'laban', 'papaglaba', 'papaglab', 'paglaba', 'laba', 'apaglaban', 'napaglaba', 'ipinapaglab', 'ipapaglab', 'pinapaglab', 'napaglaban', 'napaglab', 'ipinapaglaba', 'pinapaglaba', 'paglab', 'lab', 'glaban', 'apaglaban', 'napaglaban', 'napaglaban', 'paglab', 'paglab', 'apaglaba', 'paglaban', 'paglab', 'paglab', 'paglaba', 'paglab', 'glaba', 'paglaba', 'inapaglab', 'napaglab', 'paglaban', 'paglab', 'napaglaba', 'napaglaba', 'paglaban', 'paglaban', 'glaban', 'glaba', 'glaba', 'paglab', 'glaban', 'paglaba', 'paglaba', 'glaban', 'glaban', 'glaba', 'glaba']
+['tumbok', 'nutbok', 'tinutbok', 'tutbok', 'nutumbok', 'tutumbok', 'tinutumbok', 'nutbok', 'tumbok', 'tumbok', 'nutumbok', 'tumbok']
+['biro', 'nibiro', 'binibiro', 'bibiro', 'biro', 'nibiro', 'biro', 'biro']
+['gawa', 'nagawa', 'ginagawa', 'gagawa', 'gawa', 'nagawa', 'gawa', 'gawa']
+['ani', 'anihin', 'aanid', 'aanihi', 'nih', 'anid', 'nid', 'aani', 'nihin', 'anihi', 'hin', 'aanii', 'aanihin', 'anih', 'nihi', 'nii', 'aanih', 'anii']
+['buhay', 'kabuhayan', 'hayan', 'buhayan', 'buhaya', 'kabuhay', 'hay', 'haya', 'kabuhaya', 'buhayan', 'hayan', 'haya', 'buhay', 'buhaya', 'hayan', 'haya']
+['namimili', 'mili', 'pamimili', 'bimili', 'pinamimili', 'mimili', 'bili', 'imili', 'pimili', 'mimili', 'mimili', 'mili', 'namimili', 'namimili', 'mili', 'mili', 'mili', 'mili', 'mimili', 'mimili', 'mili', 'mili']
+#1 | Word: aaga | Expected: aga | Expected in Dictionary? True | Prediction : aga | CORRECT
+#2 | Word: maaga | Expected: aga | Expected in Dictionary? True | Prediction : aga | CORRECT
+#3 | Word: pinakamaagang | Expected: aga | Expected in Dictionary? True | Prediction : aga | CORRECT
+#4 | Word: umaga | Expected: aga | Expected in Dictionary? True | Prediction : aga | CORRECT
+#5 | Word: alamin | Expected: alam | Expected in Dictionary? True | Prediction : alam | CORRECT
+#6 | Word: ipagbigay-alam | Expected: alam | Expected in Dictionary? True | Prediction : alam | CORRECT
+#7 | Word: kaalaman | Expected: alam | Expected in Dictionary? True | Prediction : alam | CORRECT
+#8 | Word: kaalamang | Expected: alam | Expected in Dictionary? True | Prediction : alam | CORRECT
+#9 | Word: naglalaman | Expected: laman | Expected in Dictionary? True | Prediction : laman | CORRECT
+#10 | Word: nilalaman | Expected: laman | Expected in Dictionary? True | Prediction : laman | CORRECT
+#11 | Word: pagmamahal | Expected: mahal | Expected in Dictionary? True | Prediction : mahal | CORRECT
+#12 | Word: ipinapaglaban | Expected: laban | Expected in Dictionary? True | Prediction : paglaban | WRONG
+#13 | Word: tinutumbok | Expected: tumbok | Expected in Dictionary? True | Prediction : tumbok | CORRECT
+#14 | Word: binibiro | Expected: biro | Expected in Dictionary? True | Prediction : biro | CORRECT
+#15 | Word: ginagawa | Expected: gawa | Expected in Dictionary? True | Prediction : gawa | CORRECT
+#16 | Word: aanihin | Expected: ani | Expected in Dictionary? True | Prediction : ani | CORRECT
+#17 | Word: kabuhayan | Expected: buhay | Expected in Dictionary? True | Prediction : buhay | CORRECT
+#18 | Word: pinamimili | Expected: bili | Expected in Dictionary? False | Prediction : namimili | WRONG
