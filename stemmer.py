@@ -690,4 +690,4 @@ for word in words:
     stemmyes.append(stems[0])
 print(stemmyes)
 
-# stemmer.validity_test("test_words.txt", "results.txt")
+stemmer.validity_test("test_words.txt", "results.txt")
