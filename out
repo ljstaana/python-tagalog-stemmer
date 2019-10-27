@@ -1,0 +1,33 @@
+['grabe', 'naman', 'to', 'pad', 'wala', 'aral']
+1 Word: aaga | Expected: aga
+
+2 Word: maaga | Expected: aga
+
+3 Word: pinakamaagang | Expected: aga
+
+4 Word: umaga | Expected: aga
+
+5 Word: alamin | Expected: alam
+
+6 Word: ipagbigay-alam | Expected: alam
+
+7 Word: kaalaman | Expected: alam
+
+8 Word: kaalamang | Expected: alam
+
+9 Word: naglalaman | Expected: laman
+
+10 Word: nilalaman | Expected: laman
+
+11 Word: pagmamahal | Expected: mahal
+
+12 Word: ipinapaglaban | Expected: laban
+
+13 Word: tinutumbok | Expected: tumbok
+
+14 Word: binibiro | Expected: biro
+
+15 Word: ginagawa | Expected: gawa
+
+16 Word: aanihin | Expected: ani
+
